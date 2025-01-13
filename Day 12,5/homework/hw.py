@@ -27,7 +27,7 @@ print(num1!=num2)
 print(num1==num2)
 
 num1=753
-num2=286
+num2=286 
 print(num1>num2)
 print(num1>num2)
 print(num1<=num2)
